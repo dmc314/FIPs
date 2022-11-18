@@ -1,7 +1,7 @@
 #  Revisiting a Sector Duration Multiplier Post Shark (nv17) Upgrade
 
 ## Summary 
-[FIP-0036](https://github.com/filecoin-project/FIPs/blob/master/FIPS/fip-0036.md) proposed cryptoeconomic changes to the Filecoin protocol, and was the subject of lively debate within the Filecoin community beginning.  While this FIP was **rejected** for inclusion in the upcoming nv17 "Shark" network upgrade, many believe its overarching goals were directionally positive for the network. There have been renewed calls to revisit and arrive at consensus for a solution to the problem-space FIP-0036 sought to address, especially amidst an uncertain economic environment both within and external to the Filecoin Network. 
+[FIP-0036](https://github.com/filecoin-project/FIPs/blob/master/FIPS/fip-0036.md) proposed cryptoeconomic changes to the Filecoin protocol, and was the subject of lively debate within the Filecoin community.  While this FIP was rejected for inclusion in the upcoming nv17 "Shark" network upgrade, many believe its overarching goals were directionally positive for the network. There have been renewed calls to revisit and arrive at consensus for a solution to the problem-space FIP-0036 sought to address, especially amidst an uncertain economic environment both within and external to the Filecoin Network. 
 
 This discussion revisits the problem motivation, and provides a suggested path forward following FIP-0036's resolution, maintaining that the stability and long-term health of the Filecoin network continue to be of paramount importance. 
 
