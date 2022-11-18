@@ -12,6 +12,7 @@ FIP-0036 was introduced in July 2022 amidst an uncertain and bearish outlook bot
 
 Within the Filecoin Network, the amount of hardware backing the network continues to shrink. Expirations and terminations have follow on effects for the stability of storage markets, as pledged collateral is unlocked and enters the network's circulating supply.
 ![Baseline Crossing](./Baseline.png)
+
 **Since July 2022 when FIP-0036 was initially proposed, the network has lost approximately 1 EiB of storage capacity.** 
 
 This trend continuiing affects and harms both economic and network security and stability. These economic realities underscore the **time-sensitivity** of shipping protocol changes to buttress the network amidst elevated volatility. The global continues to evolve rapidly. Hence, this FIP discussion heavily biases towards reducing scope, complexity, and minor disagreement in favor of implementing a change in the positive direction sooner. 
